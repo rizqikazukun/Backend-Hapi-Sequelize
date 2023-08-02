@@ -24,3 +24,19 @@ https://github.com/rizqikazukun/Backend-Hapi-Sequelize
 ```npm instll```  
 ```pm2 start ./src/index.js --name backend```  
 
+## Konfigurasi
+Lakukan Konfigurasi Environment pada patform  
+Sesuaikan Konfigurasi sesuai kebutuhan
+
+```shell
+# For Development Purpose (Pijarcamp)
+SQL_HOST=localhost;
+SQL_PORT=3306;
+SQL_DB="pijarcamp";
+SQL_USERNAME=root;
+SQL_PASSWORD="";
+
+# Backend Configuration
+APP_BE_HOST=localhost;
+APP_BE_PORT=3000;
+```
