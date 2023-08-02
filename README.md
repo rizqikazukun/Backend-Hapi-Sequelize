@@ -20,7 +20,6 @@ https://github.com/rizqikazukun/Backend-Hapi-Sequelize
 - pm2 https://pm2.keymetrics.io
 
 ## Cara Menjalankannya
-Jalankan backendnya terlebih dahulu.
 
 ```npm instll```  
 ```pm2 start ./src/index.js --name backend```  
