@@ -4,6 +4,7 @@
   "description": "Backend level 3 tugas 10 by rizqi pratama",
   "main": "./src/index.js",
   "scripts": {
+    "start": "node ./src/index.js",
     "dev": "nodemon ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
